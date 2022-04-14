@@ -1,0 +1,139 @@
+Update date : Thu Apr 14 13:35:41 ICT 2022
+ 
+ Table 'APPLICATION_USER_LOG' no longer exists in database
+ (-) table 'APPLICATION_USER_LOG' removed
+ 
+ Table 'CLIENT_REQUEST' no longer exists in database
+ (-) table 'CLIENT_REQUEST' removed
+ 
+ Table 'EXPORT_T3' no longer exists in database
+ (-) table 'EXPORT_T3' removed
+ 
+ Table 'FVS_CLIENT' no longer exists in database
+ (-) table 'FVS_CLIENT' removed
+ 
+ Table 'FVS_LOGS' no longer exists in database
+ (-) table 'FVS_LOGS' removed
+ 
+ Table 'FV_ALL_REQUEST_PARAM' no longer exists in database
+ (-) table 'FV_ALL_REQUEST_PARAM' removed
+ 
+ Table 'FV_ANNUAL_LEAVE' no longer exists in database
+ (-) table 'FV_ANNUAL_LEAVE' removed
+ 
+ Table 'FV_CASE' no longer exists in database
+ (-) table 'FV_CASE' removed
+ 
+ Table 'FV_CASE_FEEDBACK' no longer exists in database
+ (-) table 'FV_CASE_FEEDBACK' removed
+ 
+ Table 'FV_CASE_LOG' no longer exists in database
+ (-) table 'FV_CASE_LOG' removed
+ 
+ Table 'FV_CASE_NOTEPAD' no longer exists in database
+ (-) table 'FV_CASE_NOTEPAD' removed
+ 
+ Table 'FV_CASE_REVIEW' no longer exists in database
+ (-) table 'FV_CASE_REVIEW' removed
+ 
+ Table 'FV_CONTACT' no longer exists in database
+ (-) table 'FV_CONTACT' removed
+ 
+ Table 'FV_DISTRICT' no longer exists in database
+ (-) table 'FV_DISTRICT' removed
+ 
+ Table 'FV_DISTRICT_BK' no longer exists in database
+ (-) table 'FV_DISTRICT_BK' removed
+ 
+ Table 'FV_FIELD' no longer exists in database
+ (-) table 'FV_FIELD' removed
+ 
+ Table 'FV_FIELD_IMAGE_UPLOAD' no longer exists in database
+ (-) table 'FV_FIELD_IMAGE_UPLOAD' removed
+ 
+ Table 'FV_FIELD_LOCATION' no longer exists in database
+ (-) table 'FV_FIELD_LOCATION' removed
+ 
+ Table 'FV_HOLIDAY' no longer exists in database
+ (-) table 'FV_HOLIDAY' removed
+ 
+ Table 'FV_LOCATION' no longer exists in database
+ (-) table 'FV_LOCATION' removed
+ 
+ Table 'FV_MST_LOOKUP' no longer exists in database
+ (-) table 'FV_MST_LOOKUP' removed
+ 
+ Table 'FV_NOTIFICATION' no longer exists in database
+ (-) table 'FV_NOTIFICATION' removed
+ 
+ Table 'FV_PROMOTION' no longer exists in database
+ (-) table 'FV_PROMOTION' removed
+ 
+ Table 'FV_PROMOTION_GROUP' no longer exists in database
+ (-) table 'FV_PROMOTION_GROUP' removed
+ 
+ Table 'FV_PROMOTION_HIST' no longer exists in database
+ (-) table 'FV_PROMOTION_HIST' removed
+ 
+ Table 'FV_PROVINCE' no longer exists in database
+ (-) table 'FV_PROVINCE' removed
+ 
+ Table 'FV_REGION' no longer exists in database
+ (-) table 'FV_REGION' removed
+ 
+ Table 'FV_ROLE' no longer exists in database
+ (-) table 'FV_ROLE' removed
+ 
+ Table 'FV_SLA' no longer exists in database
+ (-) table 'FV_SLA' removed
+ 
+ Table 'FV_STATUS' no longer exists in database
+ (-) table 'FV_STATUS' removed
+ 
+ Table 'FV_SURVEY' no longer exists in database
+ (-) table 'FV_SURVEY' removed
+ 
+ Table 'FV_USER' no longer exists in database
+ (-) table 'FV_USER' removed
+ 
+ Table 'FV_USER_DISTRICT' no longer exists in database
+ (-) table 'FV_USER_DISTRICT' removed
+ 
+ Table 'FV_USER_PROVINCE' no longer exists in database
+ (-) table 'FV_USER_PROVINCE' removed
+ 
+ Table 'FV_USER_REGION' no longer exists in database
+ (-) table 'FV_USER_REGION' removed
+ 
+ Table 'FV_VISIT_FORM' no longer exists in database
+ (-) table 'FV_VISIT_FORM' removed
+ 
+ Table 'MBCA_USER' no longer exists in database
+ (-) table 'MBCA_USER' removed
+ 
+ Table 'PRODUCT_TEMP' no longer exists in database
+ (-) table 'PRODUCT_TEMP' removed
+ 
+ Table 'PROMOTION_TEMP' no longer exists in database
+ (-) table 'PROMOTION_TEMP' removed
+ 
+ Table 'SYS_LOGS' no longer exists in database
+ (-) table 'SYS_LOGS' removed
+ 
+ Table 'SYS_TEMP_FBT' no longer exists in database
+ (-) table 'SYS_TEMP_FBT' removed
+ 
+ Table 'V_CONTACT_LIST' no longer exists in database
+ (-) table 'V_CONTACT_LIST' removed
+ 
+ Table 'V_CONTACT_LIST_BY_SHIFT' no longer exists in database
+ (-) table 'V_CONTACT_LIST_BY_SHIFT' removed
+ 
+ Table 'V_FVS_RPT_USER_MONTHLY' no longer exists in database
+ (-) table 'V_FVS_RPT_USER_MONTHLY' removed
+ 
+ Table 'V_FV_RESULT' no longer exists in database
+ (-) table 'V_FV_RESULT' removed
+ 
+ Table 'V_FV_SURVEY' no longer exists in database
+ (-) table 'V_FV_SURVEY' removed

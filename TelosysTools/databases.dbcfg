@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<databases defaultId="0" maxId="4">
+<db dialect="org.hibernate.dialect.Oracle10gDialect" driver="oracle.jdbc.driver.OracleDriver" id="0" isolationLevel="" name="ORACLE" poolSize="1" typeName="ORACLE" url="jdbc:oracle:thin:@10.128.10.81:1521:APPDB03">
+<property name="user" value="edoc_owner"/>
+<property name="password" value="edoc_owner#uat"/>
+<metadata catalog="!" schema="EDOC_OWNER" table-name-exclude="" table-name-include="" table-name-pattern="%" table-types="TABLE VIEW"/>
+</db>
+<db dialect="org.hibernate.dialect.SQLServerDialect" driver="com.microsoft.sqlserver.jdbc.SQLServerDriver" id="1" isolationLevel="" name="SQL-SERVER" poolSize="1" typeName="SQL_SERVER" url="jdbc:sqlserver://10.36.28.119:1433;databaseName=DMS">
+<property name="user" value="anhhc1"/>
+<property name="password" value="CommCredit@123"/>
+<metadata catalog="!" schema="!" table-name-exclude="" table-name-include="" table-name-pattern="%" table-types="TABLE"/>
+</db>
+</databases>
